@@ -46,7 +46,7 @@
 
 <br>
 
-## <a name="ImagensDoProjeto"></a>🖼 Preview do projeto
+## <a name="ImagensDoProjeto"></a>🖥 Preview do projeto
 * Página <b>Home</b> (Desktop)
 <img src="https://user-images.githubusercontent.com/71882193/172378197-65457c35-fbd2-40d9-95a0-0ef24f19433e.png" width="800px" />
 
